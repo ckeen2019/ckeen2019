@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ckeen2019
-- 👀 I’m interested in deep learning and diagnostic image processing.
-- 🌱 I’m currently learning AI based segmentation and classification of medical images.
+- 👀 I’m interested in deep learning and medical image processing.
+- 🌱 I’m currently working on AI based segmentation and classification of medical images as well as quantitative MRI.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
